@@ -19,7 +19,7 @@
 	</properties>	
 	<dependencies>	
 	<!-- Unit Test -->
-	<!-- U -->
+	<!-- UT -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
